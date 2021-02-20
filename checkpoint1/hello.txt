@@ -1,0 +1,4 @@
+name: Yu Xiao, but I like to go by Terrian Xiao
+year: freshman
+major: CSE
+fun fact: I do graphic design for fun
